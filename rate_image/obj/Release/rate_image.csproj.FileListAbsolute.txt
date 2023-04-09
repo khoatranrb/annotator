@@ -1,0 +1,12 @@
+C:\Users\khoam\source\repos\rate_image\rate_image\bin\Release\rate_image.exe.config
+C:\Users\khoam\source\repos\rate_image\rate_image\bin\Release\rate_image.exe
+C:\Users\khoam\source\repos\rate_image\rate_image\bin\Release\rate_image.pdb
+C:\Users\khoam\source\repos\rate_image\rate_image\obj\Release\rate_image.csproj.AssemblyReference.cache
+C:\Users\khoam\source\repos\rate_image\rate_image\obj\Release\rate_image.csproj.SuggestedBindingRedirects.cache
+C:\Users\khoam\source\repos\rate_image\rate_image\obj\Release\rate_image.Form1.resources
+C:\Users\khoam\source\repos\rate_image\rate_image\obj\Release\rate_image.Form2.resources
+C:\Users\khoam\source\repos\rate_image\rate_image\obj\Release\rate_image.Properties.Resources.resources
+C:\Users\khoam\source\repos\rate_image\rate_image\obj\Release\rate_image.csproj.GenerateResource.cache
+C:\Users\khoam\source\repos\rate_image\rate_image\obj\Release\rate_image.csproj.CoreCompileInputs.cache
+C:\Users\khoam\source\repos\rate_image\rate_image\obj\Release\rate_image.exe
+C:\Users\khoam\source\repos\rate_image\rate_image\obj\Release\rate_image.pdb
